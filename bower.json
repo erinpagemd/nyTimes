@@ -1,11 +1,11 @@
 {
-  "name": "template",
+  "name": "nytimes",
   "version": "0.0.0",
-  "homepage": "https://github.com/erinpagemd/template",
+  "homepage": "https://github.com/erinpagemd/nytimes",
   "authors": [
     "Erin <erinpagemd@yahoo.com>"
   ],
-  "description": "Template Angular App",
+  "description": "Angular App using New York Times Developer API",
   "license": "MIT",
   "ignore": [
     "**/.*",

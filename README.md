@@ -1,4 +1,6 @@
-# Template
+# nyTimes
+
+http://developer.nytimes.com/docs/read/article_search_api_v2
 
 ## Includes the following technologies:
 
