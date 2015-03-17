@@ -1,4 +1,4 @@
 .container-fluid
-  form
-    input(type='text' placeholder='search term')
-    button.btn.btn-default Search
+  form.row
+    input#searchterm-search.form-control(ng-model='searchterm' type='text' placeholder='search term')
+    button.btn.btn-default(ng-click='getArticles()') Search
