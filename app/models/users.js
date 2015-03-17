@@ -1,5 +1,5 @@
 angular
-.module('tempApp')
+.module('nyTimes')
 .factory('AuthFactory', AuthFactory)
 
 function AuthFactory(BASE_URL) {

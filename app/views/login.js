@@ -1,5 +1,5 @@
 angular
-.module('tempApp')
+.module('nyTimes')
 .controller('LoginCtrl', LoginController)
 
 function LoginController ($scope, AuthFactory, BASE_URL) {
